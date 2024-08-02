@@ -13,6 +13,9 @@ public class New {
 			}
 			for(j=1;j<=i;j++) {
 				System.out.print("* ");
+				System.out.println("Work done by Developer");
+				System.out.println("Running fine in my Local machine");
+				System.out.println("Bug Fixed");
 			}
 			System.out.println();
 		}
